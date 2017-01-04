@@ -1,6 +1,6 @@
 module.exports = {
     extends: [
-        'atoro/lib/default'
+        'medapptech/lib/default'
     ],
     plugins: [
         'react',
