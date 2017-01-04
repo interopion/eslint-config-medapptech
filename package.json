@@ -1,0 +1,33 @@
+{
+  "name": "eslint-config-medapptech",
+  "version": "0.0.1",
+  "description": "Contains various shared ESLint configurations",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/medapptech/medapptech-eslint"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "style guide",
+    "es6",
+    "es2015",
+    "react",
+    "jsx",
+    "lint",
+    "medapptech"
+  ],
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": ">= 3",
+    "eslint-plugin-react": ">= 6"
+  },
+  "dependencies": {
+    "eslint": "^3.12.2",
+    "eslint-plugin-react": "^6.8.0"
+  }
+}
